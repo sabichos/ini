@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ini 1.0", "Ini 1.0.csproj", "{51FCAED9-6977-4F6F-874D-8479BCEB3D0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51FCAED9-6977-4F6F-874D-8479BCEB3D0F}.Debug|x86.ActiveCfg = Debug|x86
+		{51FCAED9-6977-4F6F-874D-8479BCEB3D0F}.Debug|x86.Build.0 = Debug|x86
+		{51FCAED9-6977-4F6F-874D-8479BCEB3D0F}.Release|x86.ActiveCfg = Release|x86
+		{51FCAED9-6977-4F6F-874D-8479BCEB3D0F}.Release|x86.Build.0 = Release|x86
+		{06C43BF3-7496-40C8-BBED-2BA6A70B5772}.Debug|x86.ActiveCfg = Debug|x86
+		{06C43BF3-7496-40C8-BBED-2BA6A70B5772}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
